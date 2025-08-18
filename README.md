@@ -43,7 +43,7 @@
 | [**Online Railway Reservation System**](https://github.com/siddarammanur656/Online-Railway-Reservation-System) | Web-based ticket booking & management system. | PHP, MySQL, JS |
 | [**Music Genre Classification**](https://github.com/siddarammanur656/Music_Genre_Classification) | Classify songs into 10 genres using GTZAN dataset with ML/DL. | Python, Keras, Librosa |
 | [**Handwritten Digit Recognition**](https://github.com/siddarammanur656/Handwritten_Digit_Recognition) | Recognize handwritten digits (MNIST dataset). | Python, TensorFlow, Keras |
-| [**Reinforcement Snake AI**](https://github.com/siddarammanur656/reinforcement-snake) | AI learns to play Snake game via reinforcement learning. | Python, PyTorch, Pygame |
+| [**Reinforcement-Learning-Snake-Game**](https://github.com/siddarammanur656/reinforcement-snake) | AI learns to play Snake game via reinforcement learning. | Python, PyTorch, Pygame |
 | [**Data Structures in Java**](https://github.com/siddarammanur656/Data-Structure-Java) | Optimized implementations of core data structures. | Java |
 | [**Space Objects Viewer**](https://github.com/siddarammanur656/space-objects-viewer) | Visualizes Near-Earth Objects (NEOs) dynamically. | HTML, JS |
 | [**Web Development**](https://github.com/siddarammanur656/WEB-DEVELOPMENT) | Collection of frontend & backend web projects. | HTML, CSS, JS, React, Node.js |
