@@ -47,9 +47,6 @@
 | [**HirEase AI**](https://github.com/siddarammanur656/HirEaseAI) | Smart AI resume analyzer with ATS-friendly insights. | Python, Streamlit, Gemini AI |
 | [**Bank Churn Prediction**](https://github.com/siddarammanur656/bank-customer-churn-prediction-model) | Predict customer churn in banking institutions. | Python, ML |
 | [**Space Objects Viewer**](https://github.com/siddarammanur656/space-objects-viewer) | Visualizes Near-Earth Objects (NEOs) dynamically. | HTML, JS |
-| [**Web Development**](https://github.com/siddarammanur656/WEB-DEVELOPMENT) | Collection of frontend & backend web projects. | HTML, CSS, JS, React, Node.js |
-| [**Data Structures in Java**](https://github.com/siddarammanur656/Data-Structure-Java) | Optimized implementations of core data structures. | Java |
-
 ---
 
 ## 🏆 Achievements  
